@@ -1,0 +1,652 @@
+ID   2A5D_YEAST              Reviewed;         757 AA.
+AC   P38903;
+DT   01-FEB-1995, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-1996, sequence version 2.
+DT   16-JUN-2009, entry version 76.
+DE   RecName: Full=Serine/threonine-protein phosphatase 2A 56 kDa regulatory subunit delta isoform;
+DE   AltName: Full=PP2A, B subunit, B' delta isoform;
+DE   AltName: Full=Protein RTS1;
+DE   AltName: Full=Protein SCS1;
+GN   Name=RTS1; Synonyms=SCS1; OrderedLocusNames=YOR014W; ORFNames=OR26.04;
+OS   Saccharomyces cerevisiae (Baker's yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+OC   Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Saccharomyces.
+OX   NCBI_TaxID=4932;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   MEDLINE=96271526; PubMed=8846889;
+RA   Evangelista C.C. Jr., Rodriguez Torres A.M., Limbach M.P.,
+RA   Zitomer R.S.;
+RT   "Rox3 and Rts1 function in the global stress response pathway in
+RT   baker's yeast.";
+RL   Genetics 142:1083-1093(1996).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND SUBCELLULAR LOCATION.
+RX   MEDLINE=96009589; PubMed=7565713;
+RA   Shu Y., Hallberg R.L.;
+RT   "SCS1, a multicopy suppressor of hsp60-ts mutant alleles, does not
+RT   encode a mitochondrially targeted protein.";
+RL   Mol. Cell. Biol. 15:5618-5626(1995).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 96604 / S288c / FY1679;
+RX   MEDLINE=97313270; PubMed=9169874;
+RA   Dujon B., Albermann K., Aldea M., Alexandraki D., Ansorge W.,
+RA   Arino J., Benes V., Bohn C., Bolotin-Fukuhara M., Bordonne R.,
+RA   Boyer J., Camasses A., Casamayor A., Casas C., Cheret G.,
+RA   Cziepluch C., Daignan-Fornier B., Dang V.-D., de Haan M., Delius H.,
+RA   Durand P., Fairhead C., Feldmann H., Gaillon L., Galisson F.,
+RA   Gamo F.-J., Gancedo C., Goffeau A., Goulding S.E., Grivell L.A.,
+RA   Habbig B., Hand N.J., Hani J., Hattenhorst U., Hebling U.,
+RA   Hernando Y., Herrero E., Heumann K., Hiesel R., Hilger F., Hofmann B.,
+RA   Hollenberg C.P., Hughes B., Jauniaux J.-C., Kalogeropoulos A.,
+RA   Katsoulou C., Kordes E., Lafuente M.J., Landt O., Louis E.J.,
+RA   Maarse A.C., Madania A., Mannhaupt G., Marck C., Martin R.P.,
+RA   Mewes H.-W., Michaux G., Paces V., Parle-McDermott A.G., Pearson B.M.,
+RA   Perrin A., Pettersson B., Poch O., Pohl T.M., Poirey R.,
+RA   Portetelle D., Pujol A., Purnelle B., Ramezani Rad M., Rechmann S.,
+RA   Schwager C., Schweizer M., Sor F., Sterky F., Tarassov I.A.,
+RA   Teodoru C., Tettelin H., Thierry A., Tobiasch E., Tzermia M.,
+RA   Uhlen M., Unseld M., Valens M., Vandenbol M., Vetter I., Vlcek C.,
+RA   Voet M., Volckaert G., Voss H., Wambutt R., Wedler H., Wiemann S.,
+RA   Winsor B., Wolfe K.H., Zollner A., Zumstein E., Kleine K.;
+RT   "The nucleotide sequence of Saccharomyces cerevisiae chromosome XV.";
+RL   Nature 387:98-102(1997).
+RN   [4]
+RP   FUNCTION, SUBUNIT, AND PHOSPHORYLATION.
+RX   MEDLINE=97299674; PubMed=9154823;
+RA   Shu Y., Yang H., Hallberg E., Hallberg R.;
+RT   "Molecular genetic analysis of Rts1p, a B' regulatory subunit of
+RT   Saccharomyces cerevisiae protein phosphatase 2A.";
+RL   Mol. Cell. Biol. 17:3242-3253(1997).
+RN   [5]
+RP   LEVEL OF PROTEIN EXPRESSION [LARGE SCALE ANALYSIS].
+RX   MEDLINE=22923965; PubMed=14562106; DOI=10.1038/nature02046;
+RA   Ghaemmaghami S., Huh W.-K., Bower K., Howson R.W., Belle A.,
+RA   Dephoure N., O'Shea E.K., Weissman J.S.;
+RT   "Global analysis of protein expression in yeast.";
+RL   Nature 425:737-741(2003).
+RN   [6]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT THR-272, AND MASS
+RP   SPECTROMETRY.
+RX   PubMed=15665377; DOI=10.1074/mcp.M400219-MCP200;
+RA   Gruhler A., Olsen J.V., Mohammed S., Mortensen P., Faergeman N.J.,
+RA   Mann M., Jensen O.N.;
+RT   "Quantitative phosphoproteomics applied to the yeast pheromone
+RT   signaling pathway.";
+RL   Mol. Cell. Proteomics 4:310-327(2005).
+RN   [7]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT THR-242, AND MASS
+RP   SPECTROMETRY.
+RX   PubMed=17330950; DOI=10.1021/pr060559j;
+RA   Li X., Gerber S.A., Rudner A.D., Beausoleil S.A., Haas W., Villen J.,
+RA   Elias J.E., Gygi S.P.;
+RT   "Large-scale phosphorylation analysis of alpha-factor-arrested
+RT   Saccharomyces cerevisiae.";
+RL   J. Proteome Res. 6:1190-1197(2007).
+RN   [8]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT THR-272, AND MASS
+RP   SPECTROMETRY.
+RX   PubMed=17287358; DOI=10.1073/pnas.0607084104;
+RA   Chi A., Huttenhower C., Geer L.Y., Coon J.J., Syka J.E.P., Bai D.L.,
+RA   Shabanowitz J., Burke D.J., Troyanskaya O.G., Hunt D.F.;
+RT   "Analysis of phosphorylation sites on proteins from Saccharomyces
+RT   cerevisiae by electron transfer dissociation (ETD) mass
+RT   spectrometry.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 104:2193-2198(2007).
+RN   [9]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT THR-257 AND THR-272, AND
+RP   MASS SPECTROMETRY.
+RX   PubMed=17563356; DOI=10.1073/pnas.0701622104;
+RA   Smolka M.B., Albuquerque C.P., Chen S.H., Zhou H.;
+RT   "Proteome-wide identification of in vivo targets of DNA damage
+RT   checkpoint kinases.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 104:10364-10369(2007).
+RN   [10]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-236; THR-242; THR-257
+RP   AND THR-272, AND MASS SPECTROMETRY.
+RX   PubMed=18407956; DOI=10.1074/mcp.M700468-MCP200;
+RA   Albuquerque C.P., Smolka M.B., Payne S.H., Bafna V., Eng J., Zhou H.;
+RT   "A multidimensional chromatography technology for in-depth
+RT   phosphoproteome analysis.";
+RL   Mol. Cell. Proteomics 7:1389-1396(2008).
+CC   -!- FUNCTION: The B regulatory subunit might modulate substrate
+CC       selectivity and catalytic activity, and also might direct the
+CC       localization of the catalytic enzyme to a particular subcellular
+CC       compartment.
+CC   -!- FUNCTION: Multicopy suppressor of ROX3 and HSP60.
+CC   -!- SUBUNIT: PP2A consists of a common heterodimeric core enzyme,
+CC       composed of a 36 kDa catalytic subunit (subunit C) and a 65 kDa
+CC       constant regulatory subunit (PR65 or subunit A), that associates
+CC       with a variety of regulatory subunits. Proteins that associate
+CC       with the core dimer include three families of regulatory subunits
+CC       B (the R2/B/PR55/B55, R3/B''/PR72/PR130/PR59 and R5/B'/B56
+CC       families), the 48 kDa variable regulatory subunit, viral proteins,
+CC       and cell signaling molecules.
+CC   -!- INTERACTION:
+CC       P53958:BOP3; NbExp=1; IntAct=EBI-1931, EBI-28694;
+CC       P47135:JSN1; NbExp=1; IntAct=EBI-1931, EBI-9422;
+CC       P36027:MID2; NbExp=1; IntAct=EBI-1931, EBI-10901;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm. Nucleus.
+CC   -!- PTM: Phosphorylated.
+CC   -!- MISCELLANEOUS: Present with 300 molecules/cell in log phase SD
+CC       medium.
+CC   -!- SIMILARITY: Belongs to the phosphatase 2A regulatory subunit B
+CC       family.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; U06630; AAB38372.1; -; Genomic_DNA.
+DR   EMBL; S79635; AAB35312.1; -; Genomic_DNA.
+DR   EMBL; X87331; CAA60763.1; -; Genomic_DNA.
+DR   EMBL; Z74922; CAA99203.1; -; Genomic_DNA.
+DR   PIR; S54620; S54620.
+DR   RefSeq; NP_014657.1; -.
+DR   DIP; DIP:4191N; -.
+DR   IntAct; P38903; 53.
+DR   PeptideAtlas; P38903; -.
+DR   PRIDE; P38903; -.
+DR   Ensembl; YOR014W; Saccharomyces cerevisiae.
+DR   GeneID; 854179; -.
+DR   GenomeReviews; Y13140_GR; YOR014W.
+DR   KEGG; sce:YOR014W; -.
+DR   NMPDR; fig|4932.3.peg.5754; -.
+DR   CYGD; YOR014w; -.
+DR   SGD; S000005540; RTS1.
+DR   HOGENOM; P38903; -.
+DR   OMA; P38903; CIENAEV.
+DR   NextBio; 975981; -.
+DR   ArrayExpress; P38903; -.
+DR   GermOnline; YOR014W; Saccharomyces cerevisiae.
+DR   GO; GO:0005935; C:cellular bud neck; IDA:SGD.
+DR   GO; GO:0000780; C:condensed nuclear chromosome, centromeric r...; IDA:SGD.
+DR   GO; GO:0000159; C:protein phosphatase type 2A complex; TAS:SGD.
+DR   GO; GO:0005816; C:spindle pole body; IDA:SGD.
+DR   GO; GO:0005515; F:protein binding; IPI:IntAct.
+DR   GO; GO:0008601; F:protein phosphatase type 2A regulator activity; IEA:InterPro.
+DR   GO; GO:0051754; P:meiotic sister chromatid cohesion, centromeric; IMP:SGD.
+DR   GO; GO:0006470; P:protein amino acid dephosphorylation; TAS:SGD.
+DR   GO; GO:0007165; P:signal transduction; IEA:InterPro.
+DR   InterPro; IPR002554; PP2A_B56.
+DR   PANTHER; PTHR10257; B56; 1.
+DR   Pfam; PF01603; B56; 1.
+DR   PIRSF; PIRSF028043; PP2A_B56; 1.
+PE   1: Evidence at protein level;
+KW   Complete proteome; Cytoplasm; Nucleus; Phosphoprotein.
+FT   CHAIN         1    757       Serine/threonine-protein phosphatase 2A
+FT                                56 kDa regulatory subunit delta isoform.
+FT                                /FTId=PRO_0000071471.
+FT   COMPBIAS     16     22       Poly-Ser.
+FT   COMPBIAS     46     51       Poly-Ser.
+FT   COMPBIAS     98    110       Poly-Ser.
+FT   COMPBIAS    143    147       Poly-Ser.
+FT   COMPBIAS    202    213       Poly-Asn.
+FT   MOD_RES     236    236       Phosphoserine.
+FT   MOD_RES     242    242       Phosphothreonine.
+FT   MOD_RES     257    257       Phosphothreonine.
+FT   MOD_RES     272    272       Phosphothreonine.
+FT   CONFLICT     95     95       T -> S (in Ref. 2; AAB35312).
+FT   CONFLICT    529    529       L -> F (in Ref. 1; AAB38372).
+FT   CONFLICT    581    581       A -> R (in Ref. 1; AAB38372).
+SQ   SEQUENCE   757 AA;  85335 MW;  5A7476C30140331C CRC64;
+     MMRGFKQRLI KKTTGSSSSS SSKKKDKEKE KEKSSTTSST SKKPASASSS SHGTTHSSAS
+     STGSKSTTEK GKQSGSVPSQ GKHHSSSTSK TKTATTPSSS SSSSRSSSVS RSGSSSTKKT
+     SSRKGQEQSK QSQQPSQSQK QGSSSSSAAI MNPTPVLTVT KDDKSTSGED HAHPTLLGAV
+     SAVPSSPISN ASGTAVSSDV ENGNSNNNNM NINTSNTQDA NHASSQSIDI PRSSHSFERL
+     PTPTKLNPDT DLELIKTPQR HSSSRFEPSR YTPLTKLPNF NEVSPEERIP LFIAKVDQCN
+     TMFDFNDPSF DIQGKEIKRS TLDELIEFLV TNRFTYTNEM YAHVVNMFKI NLFRPIPPPV
+     NPVGDIYDPD EDEPVNELAW PHMQAVYEFF LRFVESPDFN HQIAKQYIDQ DFILKLLELF
+     DSEDIRERDC LKTTLHRIYG KFLSLRSFIR RSMNNIFLQF IYETEKFNGV AELLEILGSI
+     INGFALPLKE EHKVFLVRIL IPLHKVRCLS LYHPQLAYCI VQFLEKDPLL TEEVVMGLLR
+     YWPKINSTKE IMFLNEIEDI FEVIEPLEFI KVEVPLFVQL AKCISSPHFQ VAEKVLSYWN
+     NEYFLNLCIE NAEVILPIIF PALYELTSQL ELDTANGEDS ISDPYMLVEQ AINSGSWNRA
+     IHAMAFKALK IFLETNPVLY ENCNALYLSS VKETQQRKVQ REENWSKLEE YVKNLRINND
+     KDQYTIKNPE LRNSFNTASE NNTLNEENEN DCDSEIQ
+//
+ID   2AAA_YEAST              Reviewed;         635 AA.
+AC   P31383;
+DT   01-JUL-1993, integrated into UniProtKB/Swiss-Prot.
+DT   01-FEB-1996, sequence version 2.
+DT   16-JUN-2009, entry version 75.
+DE   RecName: Full=Protein phosphatase PP2A regulatory subunit A;
+DE   AltName: Full=PR65;
+GN   Name=TPD3; OrderedLocusNames=YAL016W; ORFNames=FUN32;
+OS   Saccharomyces cerevisiae (Baker's yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+OC   Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Saccharomyces.
+OX   NCBI_TaxID=4932;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 204508 / S288c;
+RX   MEDLINE=93024440; PubMed=1328868;
+RA   van Zyl W., Huang W., Sneddon A.A., Stark M., Camier S., Werner M.,
+RA   Marck C., Sentenac A., Broach J.R.;
+RT   "Inactivation of the protein phosphatase 2A regulatory subunit A
+RT   results in morphological and transcriptional defects in Saccharomyces
+RT   cerevisiae.";
+RL   Mol. Cell. Biol. 12:4946-4959(1992).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 204511 / S288c / AB972;
+RX   MEDLINE=93209532; PubMed=8458570;
+RA   Ouellette B.F.F., Clark M.W., Keng T., Storms R.K., Zhong W.-W.,
+RA   Zeng B., Fortin N., Delaney S., Barton A.B., Kaback D.B., Bussey H.;
+RT   "Sequencing of chromosome I from Saccharomyces cerevisiae: analysis of
+RT   a 32 kb region between the LTE1 and SPO7 genes.";
+RL   Genome 36:32-42(1993).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 204511 / S288c / AB972;
+RX   MEDLINE=94193531; PubMed=8144453;
+RA   Barton A.B., Kaback D.B.;
+RT   "Molecular cloning of chromosome I DNA from Saccharomyces cerevisiae:
+RT   analysis of the genes in the FUN38-MAK16-SPO7 region.";
+RL   J. Bacteriol. 176:1872-1880(1994).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 204511 / S288c / AB972;
+RX   MEDLINE=95249563; PubMed=7731988; DOI=10.1073/pnas.92.9.3809;
+RA   Bussey H., Kaback D.B., Zhong W.-W., Vo D.H., Clark M.W., Fortin N.,
+RA   Hall J., Ouellette B.F.F., Keng T., Barton A.B., Su Y., Davies C.J.,
+RA   Storms R.K.;
+RT   "The nucleotide sequence of chromosome I from Saccharomyces
+RT   cerevisiae.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 92:3809-3813(1995).
+RN   [5]
+RP   LEVEL OF PROTEIN EXPRESSION [LARGE SCALE ANALYSIS].
+RX   MEDLINE=22923965; PubMed=14562106; DOI=10.1038/nature02046;
+RA   Ghaemmaghami S., Huh W.-K., Bower K., Howson R.W., Belle A.,
+RA   Dephoure N., O'Shea E.K., Weissman J.S.;
+RT   "Global analysis of protein expression in yeast.";
+RL   Nature 425:737-741(2003).
+CC   -!- FUNCTION: Phosphatase 2A affects a variety of biological processes
+CC       in the cell such as transcription, cell cycle progression and
+CC       cellular morphogenesis, and provides an initial identification of
+CC       critical substrates for this phosphatase. The regulatory subunit
+CC       may direct the catalytic subunit to distinct, albeit overlapping,
+CC       subsets of substrates.
+CC   -!- SUBUNIT: PP2A exists in several trimeric forms, all of which
+CC       consist of a core composed of a catalytic subunit associated with
+CC       a 65 kDa regulatory subunit (PR65) (subunit A). The core complex
+CC       associates with a third, variable subunit (subunit B), which
+CC       confers distinct properties to the holoenzyme.
+CC   -!- INTERACTION:
+CC       P40994:ARF3; NbExp=1; IntAct=EBI-1936, EBI-2824;
+CC       P53090:ARO8; NbExp=1; IntAct=EBI-1936, EBI-2042933;
+CC       Q03375:CWC21; NbExp=1; IntAct=EBI-1936, EBI-30409;
+CC       P32288:GLN1; NbExp=1; IntAct=EBI-1936, EBI-7665;
+CC       P00817:IPP1; NbExp=1; IntAct=EBI-1936, EBI-9338;
+CC       P37012:PGM2; NbExp=1; IntAct=EBI-1936, EBI-13296;
+CC       P21524:RNR1; NbExp=1; IntAct=EBI-1936, EBI-15234;
+CC       P09938:RNR2; NbExp=1; IntAct=EBI-1936, EBI-15240;
+CC       P39954:SAH1; NbExp=1; IntAct=EBI-1936, EBI-16451;
+CC       Q12043:TGL5; NbExp=1; IntAct=EBI-1936, EBI-34845;
+CC       P07806-1:VAS1; NbExp=1; IntAct=EBI-1936, EBI-1009942;
+CC       P31412:VMA5; NbExp=1; IntAct=EBI-1936, EBI-20260;
+CC   -!- DOMAIN: Each HEAT repeat appears to consist of two alpha helices
+CC       joined by a hydrophilic region, the intrarepeat loop. The repeat
+CC       units may be arranged laterally to form a rod-like structure.
+CC   -!- MISCELLANEOUS: Present with 16900 molecules/cell in log phase SD
+CC       medium.
+CC   -!- SIMILARITY: Belongs to the phosphatase 2A regulatory subunit A
+CC       family.
+CC   -!- SIMILARITY: Contains 15 HEAT repeats.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; L05146; AAC04941.1; -; Genomic_DNA.
+DR   EMBL; M98389; AAA35163.1; -; Genomic_DNA.
+DR   PIR; S36718; S36718.
+DR   HSSP; P30153; 1B3U.
+DR   DIP; DIP:2010N; -.
+DR   IntAct; P31383; 52.
+DR   PeptideAtlas; P31383; -.
+DR   PRIDE; P31383; -.
+DR   Ensembl; YAL016W; Saccharomyces cerevisiae.
+DR   GenomeReviews; U00091_GR; YAL016W.
+DR   KEGG; sce:YAL016W; -.
+DR   CYGD; YAL016w; -.
+DR   SGD; S000000014; TPD3.
+DR   HOGENOM; P31383; -.
+DR   ArrayExpress; P31383; -.
+DR   GermOnline; YAL016W; Saccharomyces cerevisiae.
+DR   GO; GO:0005935; C:cellular bud neck; IDA:SGD.
+DR   GO; GO:0005934; C:cellular bud tip; IDA:SGD.
+DR   GO; GO:0043332; C:mating projection tip; IDA:SGD.
+DR   GO; GO:0005634; C:nucleus; IDA:SGD.
+DR   GO; GO:0000159; C:protein phosphatase type 2A complex; IDA:SGD.
+DR   GO; GO:0005816; C:spindle pole body; IDA:SGD.
+DR   GO; GO:0005515; F:protein binding; IPI:IntAct.
+DR   GO; GO:0007015; P:actin filament organization; TAS:SGD.
+DR   GO; GO:0007117; P:budding cell bud growth; TAS:SGD.
+DR   GO; GO:0007094; P:mitotic cell cycle spindle assembly checkpoint; IMP:SGD.
+DR   GO; GO:0006470; P:protein amino acid dephosphorylation; TAS:SGD.
+DR   GO; GO:0006412; P:translation; IMP:SGD.
+DR   InterPro; IPR011989; ARM-like.
+DR   InterPro; IPR000357; HEAT.
+DR   Gene3D; G3DSA:1.25.10.10; ARM-like; 1.
+DR   Pfam; PF02985; HEAT; 10.
+DR   PROSITE; PS50077; HEAT_REPEAT; 9.
+PE   1: Evidence at protein level;
+KW   Complete proteome; Repeat.
+FT   CHAIN         1    635       Protein phosphatase PP2A regulatory
+FT                                subunit A.
+FT                                /FTId=PRO_0000071414.
+FT   REPEAT       34     72       HEAT 1.
+FT   REPEAT       73    111       HEAT 2.
+FT   REPEAT      112    150       HEAT 3.
+FT   REPEAT      151    189       HEAT 4.
+FT   REPEAT      190    228       HEAT 5.
+FT   REPEAT      229    273       HEAT 6.
+FT   REPEAT      274    316       HEAT 7.
+FT   REPEAT      317    356       HEAT 8.
+FT   REPEAT      357    395       HEAT 9.
+FT   REPEAT      396    434       HEAT 10.
+FT   REPEAT      435    473       HEAT 11.
+FT   REPEAT      474    512       HEAT 12.
+FT   REPEAT      513    553       HEAT 13.
+FT   REPEAT      554    598       HEAT 14.
+FT   REPEAT      599    632       HEAT 15.
+FT   CONFLICT    611    611       F -> C (in Ref. 1; AAC04941).
+SQ   SEQUENCE   635 AA;  70951 MW;  7B8305FB20633DC8 CRC64;
+     MSGARSTTAG AVPSAATTST TSTTSNSKDS DSNESLYPLA LLMDELKHDD IANRVEAMKK
+     LDTIALALGP ERTRNELIPF LTEVAQDDED EVFAVLAEQL GKFVPYIGGP QYATILLPVL
+     EILASAEETL VREKAVDSLN NVAQELSQEQ LFSDFVPLIE HLATADWFSS KVSACGLFKS
+     VIVRIKDDSL RKNILALYLQ LAQDDTPMVK RAVGKNLPIL IDLLTQNLGL STDEDWDYIS
+     NIFQKIINDN QDSVKFLAVD CLISILKFFN AKGDESHTQD LLNSAVKLIG DEAWRVRYMA
+     ADRFSDLASQ FSSNQAYIDE LVQPFLNLCE DNEGDVREAV AKQVSGFAKF LNDPSIILNK
+     ILPAVQNLSM DESETVRSAL ASKITNIVLL LNKDQVINNF LPILLNMLRD EFPDVRLNII
+     ASLKVVNDVI GIELLSDSLL PAITELAKDV NWRVRMAIIE YIPILAEQLG MQFFDQQLSD
+     LCLSWLWDTV YSIREAAVNN LKRLTEIFGS DWCRDEIISR LLKFDLQLLE NFVSRFTILS
+     ALTTLVPVVS LDVVTEQLLP FISHLADDGV PNIRFNVAKS YAVIVKVLIK DEAKYDALIK
+     NTILPSLQTL FQDEDVDVKY FAKKSLAECQ ELLKN
+//
+ID   2ABA_YEAST              Reviewed;         526 AA.
+AC   Q00362;
+DT   01-APR-1993, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-1996, sequence version 2.
+DT   16-JUN-2009, entry version 82.
+DE   RecName: Full=Protein phosphatase PP2A regulatory subunit B;
+DE   AltName: Full=PR55;
+DE   AltName: Full=Cell division control protein 55;
+GN   Name=CDC55; OrderedLocusNames=YGL190C; ORFNames=G1345;
+OS   Saccharomyces cerevisiae (Baker's yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+OC   Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Saccharomyces.
+OX   NCBI_TaxID=4932;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   MEDLINE=92017858; PubMed=1656238;
+RA   Healy A.M., Zolnierowicz S., Stapleton A.E., Goebl M.,
+RA   Depaoli-Roach A.A., Pringle J.R.;
+RT   "CDC55, a Saccharomyces cerevisiae gene involved in cellular
+RT   morphogenesis: identification, characterization, and homology to the B
+RT   subunit of mammalian type 2A protein phosphatase.";
+RL   Mol. Cell. Biol. 11:5767-5780(1991).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 96604 / S288c / FY1679;
+RX   MEDLINE=97197971; PubMed=9046087;
+RX   DOI=10.1002/(SICI)1097-0061(199701)13:1<55::AID-YEA48>3.3.CO;2-0;
+RA   Coglievina M., Klima R., Bertani I., Delneri D., Zaccaria P.,
+RA   Bruschi C.V.;
+RT   "Sequencing of a 40.5 kb fragment located on the left arm of
+RT   chromosome VII from Saccharomyces cerevisiae.";
+RL   Yeast 13:55-64(1997).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 96604 / S288c / FY1679;
+RX   MEDLINE=97313265; PubMed=9169869;
+RA   Tettelin H., Agostoni-Carbone M.L., Albermann K., Albers M.,
+RA   Arroyo J., Backes U., Barreiros T., Bertani I., Bjourson A.J.,
+RA   Brueckner M., Bruschi C.V., Carignani G., Castagnoli L., Cerdan E.,
+RA   Clemente M.L., Coblenz A., Coglievina M., Coissac E., Defoor E.,
+RA   Del Bino S., Delius H., Delneri D., de Wergifosse P., Dujon B.,
+RA   Durand P., Entian K.-D., Eraso P., Escribano V., Fabiani L.,
+RA   Fartmann B., Feroli F., Feuermann M., Frontali L., Garcia-Gonzalez M.,
+RA   Garcia-Saez M.I., Goffeau A., Guerreiro P., Hani J., Hansen M.,
+RA   Hebling U., Hernandez K., Heumann K., Hilger F., Hofmann B.,
+RA   Indge K.J., James C.M., Klima R., Koetter P., Kramer B., Kramer W.,
+RA   Lauquin G., Leuther H., Louis E.J., Maillier E., Marconi A.,
+RA   Martegani E., Mazon M.J., Mazzoni C., McReynolds A.D.K.,
+RA   Melchioretto P., Mewes H.-W., Minenkova O., Mueller-Auer S.,
+RA   Nawrocki A., Netter P., Neu R., Nombela C., Oliver S.G., Panzeri L.,
+RA   Paoluzi S., Plevani P., Portetelle D., Portillo F., Potier S.,
+RA   Purnelle B., Rieger M., Riles L., Rinaldi T., Robben J.,
+RA   Rodrigues-Pousada C., Rodriguez-Belmonte E., Rodriguez-Torres A.M.,
+RA   Rose M., Ruzzi M., Saliola M., Sanchez-Perez M., Schaefer B.,
+RA   Schaefer M., Scharfe M., Schmidheini T., Schreer A., Skala J.,
+RA   Souciet J.-L., Steensma H.Y., Talla E., Thierry A., Vandenbol M.,
+RA   van der Aart Q.J.M., Van Dyck L., Vanoni M., Verhasselt P., Voet M.,
+RA   Volckaert G., Wambutt R., Watson M.D., Weber N., Wedler E., Wedler H.,
+RA   Wipfli P., Wolf K., Wright L.F., Zaccaria P., Zimmermann M.,
+RA   Zollner A., Kleine K.;
+RT   "The nucleotide sequence of Saccharomyces cerevisiae chromosome VII.";
+RL   Nature 387:81-84(1997).
+RN   [4]
+RP   LEVEL OF PROTEIN EXPRESSION [LARGE SCALE ANALYSIS].
+RX   MEDLINE=22923965; PubMed=14562106; DOI=10.1038/nature02046;
+RA   Ghaemmaghami S., Huh W.-K., Bower K., Howson R.W., Belle A.,
+RA   Dephoure N., O'Shea E.K., Weissman J.S.;
+RT   "Global analysis of protein expression in yeast.";
+RL   Nature 425:737-741(2003).
+RN   [5]
+RP   INTERACTION WITH YND1.
+RX   PubMed=16227198; DOI=10.1074/jbc.M507281200;
+RA   Maoz T., Koren R., Ben-Ari I., Kleinberger T.;
+RT   "YND1 interacts with CDC55 and is a novel mediator of E4orf4-induced
+RT   toxicity.";
+RL   J. Biol. Chem. 280:41270-41277(2005).
+RN   [6]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-124; SER-155 AND
+RP   SER-440, AND MASS SPECTROMETRY.
+RX   PubMed=18407956; DOI=10.1074/mcp.M700468-MCP200;
+RA   Albuquerque C.P., Smolka M.B., Payne S.H., Bafna V., Eng J., Zhou H.;
+RT   "A multidimensional chromatography technology for in-depth
+RT   phosphoproteome analysis.";
+RL   Mol. Cell. Proteomics 7:1389-1396(2008).
+CC   -!- FUNCTION: Phosphatase 2A affects a variety of biological processes
+CC       in the cell such as transcription, cell cycle progression and
+CC       cellular morphogenesis, and provides an initial identification of
+CC       critical substrates for this phosphatase. The regulatory subunit
+CC       may direct the catalytic subunit to distinct, albeit overlapping,
+CC       subsets of substrates.
+CC   -!- SUBUNIT: PP2A exists in several trimeric forms, all of which
+CC       consist of a core composed of a catalytic subunit associated with
+CC       a 65 kDa (PR65) (Subunit A) and a 55 kDa (PR55) (Subunit B)
+CC       regulatory subunit. Interacts with YND1; this interaction mediates
+CC       adenovirus E4orf4 (early region 4 open reading frame 4) induced
+CC       toxicity and is disrupted by adenovirus E4orf4, which remains
+CC       associated with both CDC55 and YND1.
+CC   -!- INTERACTION:
+CC       Q03018:ESP1; NbExp=2; IntAct=EBI-1942, EBI-6657;
+CC       Q05934:VID22; NbExp=1; IntAct=EBI-1942, EBI-30350;
+CC       P54786:ZDS2; NbExp=1; IntAct=EBI-1942, EBI-29637;
+CC   -!- MISCELLANEOUS: Present with 8600 molecules/cell in log phase SD
+CC       medium.
+CC   -!- SIMILARITY: Belongs to the phosphatase 2A regulatory subunit B
+CC       family.
+CC   -!- SIMILARITY: Contains 7 WD repeats.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M72716; AAA34482.1; -; Genomic_DNA.
+DR   EMBL; X91837; CAA62954.1; -; Genomic_DNA.
+DR   EMBL; X91489; CAA62785.1; -; Genomic_DNA.
+DR   EMBL; Z72712; CAA96902.1; -; Genomic_DNA.
+DR   PIR; A41698; A41698.
+DR   RefSeq; NP_011325.1; -.
+DR   DIP; DIP:2281N; -.
+DR   IntAct; Q00362; 64.
+DR   PeptideAtlas; Q00362; -.
+DR   Ensembl; YGL190C; Saccharomyces cerevisiae.
+DR   GeneID; 852685; -.
+DR   GenomeReviews; Y13135_GR; YGL190C.
+DR   KEGG; sce:YGL190C; -.
+DR   NMPDR; fig|4932.3.peg.2428; -.
+DR   CYGD; YGL190c; -.
+DR   SGD; S000003158; CDC55.
+DR   HOGENOM; Q00362; -.
+DR   OMA; Q00362; HPIHCNL.
+DR   NextBio; 972008; -.
+DR   ArrayExpress; Q00362; -.
+DR   GermOnline; YGL190C; Saccharomyces cerevisiae.
+DR   GO; GO:0005935; C:cellular bud neck; IDA:SGD.
+DR   GO; GO:0005934; C:cellular bud tip; IDA:SGD.
+DR   GO; GO:0005634; C:nucleus; IDA:SGD.
+DR   GO; GO:0000159; C:protein phosphatase type 2A complex; TAS:SGD.
+DR   GO; GO:0005515; F:protein binding; IPI:IntAct.
+DR   GO; GO:0008601; F:protein phosphatase type 2A regulator activity; IEA:InterPro.
+DR   GO; GO:0004722; F:protein serine/threonine phosphatase activity; TAS:SGD.
+DR   GO; GO:0007015; P:actin filament organization; TAS:SGD.
+DR   GO; GO:0007117; P:budding cell bud growth; TAS:SGD.
+DR   GO; GO:0007049; P:cell cycle; IEA:UniProtKB-KW.
+DR   GO; GO:0007094; P:mitotic cell cycle spindle assembly checkpoint; IGI:SGD.
+DR   GO; GO:0001100; P:negative regulation of exit from mitosis; IMP:SGD.
+DR   GO; GO:0006470; P:protein amino acid dephosphorylation; TAS:SGD.
+DR   GO; GO:0007124; P:pseudohyphal growth; IMP:SGD.
+DR   GO; GO:0007165; P:signal transduction; IEA:InterPro.
+DR   GO; GO:0006412; P:translation; IMP:SGD.
+DR   InterPro; IPR019578; PP2A_Bsu_A/B_central-region.
+DR   InterPro; IPR000009; PP2A_PR55.
+DR   InterPro; IPR018067; PP2A_PR55_CS.
+DR   InterPro; IPR019573; PP2A_suB_N.
+DR   InterPro; IPR015943; WD40/YVTN_repeat-like.
+DR   InterPro; IPR001680; WD40_repeat.
+DR   InterPro; IPR019775; WD40_repeat_CS.
+DR   InterPro; IPR019781; WD40_repeat_sg.
+DR   Gene3D; G3DSA:2.130.10.10; WD40/YVTN_repeat-like; 1.
+DR   PANTHER; PTHR11871; Pp2A_PR55; 1.
+DR   Pfam; PF10586; PP2A_B_N; 1.
+DR   Pfam; PF10594; PP2A_B_subs_rcg; 1.
+DR   Pfam; PF00400; WD40; 1.
+DR   PIRSF; PIRSF037309; PP2A_PR55; 1.
+DR   PRINTS; PR00600; PP2APR55.
+DR   SMART; SM00320; WD40; 5.
+DR   PROSITE; PS01024; PR55_1; 1.
+DR   PROSITE; PS01025; PR55_2; 1.
+DR   PROSITE; PS00678; WD_REPEATS_1; 1.
+DR   PROSITE; PS50082; WD_REPEATS_2; FALSE_NEG.
+DR   PROSITE; PS50294; WD_REPEATS_REGION; FALSE_NEG.
+PE   1: Evidence at protein level;
+KW   Cell cycle; Complete proteome; Phosphoprotein; Repeat; WD repeat.
+FT   CHAIN         1    526       Protein phosphatase PP2A regulatory
+FT                                subunit B.
+FT                                /FTId=PRO_0000071442.
+FT   REPEAT       23     62       WD 1.
+FT   REPEAT       82    123       WD 2.
+FT   REPEAT      182    220       WD 3.
+FT   REPEAT      231    271       WD 4.
+FT   REPEAT      290    328       WD 5.
+FT   REPEAT      345    386       WD 6.
+FT   REPEAT      495    525       WD 7.
+FT   COMPBIAS    416    419       Poly-Ser.
+FT   MOD_RES     124    124       Phosphoserine.
+FT   MOD_RES     155    155       Phosphoserine.
+FT   MOD_RES     440    440       Phosphoserine.
+FT   CONFLICT    500    500       I -> N (in Ref. 1; AAA34482).
+SQ   SEQUENCE   526 AA;  59662 MW;  6DA12C2805FA6A82 CRC64;
+     MAQNNFDFKF SQCFGDKADI VVTEADLITA VEFDYTGNYL ATGDKGGRVV LFERSNSRHC
+     EYKFLTEFQS HDAEFDYLKS LEIEEKINEI KWLRPTQRSH FLLSTNDKTI KLWKVYEKNI
+     KLVSQNNLTE GVTFAKKGKP DNHNSRGGSV RAVLSLQSLK LPQLSQHDKI IAATPKRIYS
+     NAHTYHINSI SLNSDQETFL SADDLRINLW NLDIPDQSFN IVDIKPTNME ELTEVITSAE
+     FHPQECNLFM YSSSKGTIKL CDMRQNSLCD NKTKTFEEYL DPINHNFFTE ITSSISDIKF
+     SPNGRYIASR DYLTVKIWDV NMDNKPLKTI NIHEQLKERL SDTYENDAIF DKFEVNFSGD
+     SSSVMTGSYN NNFMIYPNVV TSGDNDNGIV KTFDEHNAPN SNSNKNIHNS IQNKDSSSSG
+     NSHKRRSNGR NTGMVGSSNS SRSSIAGGEG ANSEDSGTEM NEIVLQADKT AFRNKRYGSL
+     AQRSARNKDW GDDIDFKKNI LHFSWHPREN SIAVAATNNL FIFSAL
+//
+ID   2NDP_YEAST              Reviewed;         404 AA.
+AC   P47177;
+DT   01-FEB-1996, integrated into UniProtKB/Swiss-Prot.
+DT   01-FEB-1996, sequence version 1.
+DT   16-JUN-2009, entry version 55.
+DE   RecName: Full=Putative 2-nitropropane dioxygenase;
+DE            Short=2-NPD;
+DE            EC=1.13.11.32;
+DE   AltName: Full=Nitroalkane oxidase;
+GN   OrderedLocusNames=YJR149W; ORFNames=J2213;
+OS   Saccharomyces cerevisiae (Baker's yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+OC   Saccharomycetes; Saccharomycetales; Saccharomycetaceae; Saccharomyces.
+OX   NCBI_TaxID=4932;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 96604 / S288c / FY1679;
+RX   MEDLINE=96208490; PubMed=8641269;
+RA   Galibert F., Alexandraki D., Baur A., Boles E., Chalwatzis N.,
+RA   Chuat J.-C., Coster F., Cziepluch C., de Haan M., Domdey H.,
+RA   Durand P., Entian K.-D., Gatius M., Goffeau A., Grivell L.A.,
+RA   Hennemann A., Herbert C.J., Heumann K., Hilger F., Hollenberg C.P.,
+RA   Huang M.-E., Jacq C., Jauniaux J.-C., Katsoulou C., Kirchrath L.,
+RA   Kleine K., Kordes E., Koetter P., Liebl S., Louis E.J., Manus V.,
+RA   Mewes H.-W., Miosga T., Obermaier B., Perea J., Pohl T.M.,
+RA   Portetelle D., Pujol A., Purnelle B., Ramezani Rad M., Rasmussen S.W.,
+RA   Rose M., Rossau R., Schaaff-Gerstenschlaeger I., Smits P.H.M.,
+RA   Scarcez T., Soriano N., To Van D., Tzermia M., Van Broekhoven A.,
+RA   Vandenbol M., Wedler H., von Wettstein D., Wambutt R., Zagulski M.,
+RA   Zollner A., Karpfinger-Hartl L.;
+RT   "Complete nucleotide sequence of Saccharomyces cerevisiae chromosome
+RT   X.";
+RL   EMBO J. 15:2031-2049(1996).
+RN   [2]
+RP   LEVEL OF PROTEIN EXPRESSION [LARGE SCALE ANALYSIS].
+RX   MEDLINE=22923965; PubMed=14562106; DOI=10.1038/nature02046;
+RA   Ghaemmaghami S., Huh W.-K., Bower K., Howson R.W., Belle A.,
+RA   Dephoure N., O'Shea E.K., Weissman J.S.;
+RT   "Global analysis of protein expression in yeast.";
+RL   Nature 425:737-741(2003).
+CC   -!- FUNCTION: May catalyze the oxygenative denitrification of various
+CC       anionic nitroalkanes (By similarity).
+CC   -!- CATALYTIC ACTIVITY: 2 2-nitropropane + O(2) = 2 acetone + 2
+CC       nitrite.
+CC   -!- COFACTOR: FAD (By similarity).
+CC   -!- INTERACTION:
+CC       P33203:PRP40; NbExp=1; IntAct=EBI-25740, EBI-701;
+CC       P39940:RSP5; NbExp=1; IntAct=EBI-25740, EBI-16219;
+CC   -!- MISCELLANEOUS: Present with 172 molecules/cell in log phase SD
+CC       medium.
+CC   -!- SIMILARITY: Belongs to the 2-nitropropane dioxygenase family.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; Z49649; CAA89682.1; -; Genomic_DNA.
+DR   PIR; S57178; S57178.
+DR   RefSeq; NP_012683.1; -.
+DR   IntAct; P47177; 3.
+DR   Ensembl; YJR149W; Saccharomyces cerevisiae.
+DR   GeneID; 853614; -.
+DR   GenomeReviews; Y13136_GR; YJR149W.
+DR   KEGG; sce:YJR149W; -.
+DR   NMPDR; fig|4932.3.peg.3660; -.
+DR   CYGD; YJR149w; -.
+DR   SGD; S000003910; YJR149W.
+DR   HOGENOM; P47177; -.
+DR   OMA; P47177; TNLFTGR.
+DR   NextBio; 974463; -.
+DR   GermOnline; YJR149W; Saccharomyces cerevisiae.
+DR   GO; GO:0005737; C:cytoplasm; IDA:SGD.
+DR   GO; GO:0018580; F:2-nitropropane dioxygenase activity; IEA:EC.
+DR   GO; GO:0005515; F:protein binding; IPI:IntAct.
+DR   GO; GO:0055114; P:oxidation reduction; IEA:UniProtKB-KW.
+DR   InterPro; IPR004136; 2Npropane_dOase.
+DR   InterPro; IPR013785; Aldolase_TIM.
+DR   Gene3D; G3DSA:3.20.20.70; Aldolase_TIM; 1.
+DR   Pfam; PF03060; NPD; 2.
+PE   1: Evidence at protein level;
+KW   Complete proteome; Dioxygenase; FAD; Flavoprotein; Oxidoreductase.
+FT   CHAIN         1    404       Putative 2-nitropropane dioxygenase.
+FT                                /FTId=PRO_0000203128.
+SQ   SEQUENCE   404 AA;  45143 MW;  E3FEF886C76ED7FA CRC64;
+     MYFLNQLIFQ DVSVMSVDKR EDMSRSFQKC LNLRYPIIQA PMAGVTTIEM AAKACIAGAI
+     ASLPLSHLDF RKVNDIEKLK LMVSQFRDQV ADESLEGNLN LNFFCHDIVD KPTDLQTANW
+     AKLYRKSMNV PIDMNEIKFD NGNVSFKAFE KENALQDFFQ YLSDGFRPKI ISFHFGHPSK
+     STIEYLQKIG ILIFVTATSV REVRLLARLG INGIVCQGYE AGGHRGNFLV NDPKDDENLS
+     TVQLVKRTVD ELAEMKNKGL IHATPFVIAA GGIMDSKDIS YMLSQQADAV QVGTAFLGCS
+     ESNASKNFSS PFTRETTTKM VNIISGKPAR TISTPFIEKV IANFQGEELP PYGYMYSAFK
+     QVRKKYPELA NFILAGQGFQ NVQSGITTDK KIETMGARLK IVGK
+//
